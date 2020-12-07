@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageDownload</string>
+    <string name="image_url">Image URL:</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="your_picture">Your Picture</string>
+    <string name="download">Download</string>
+</resources>
